@@ -1,0 +1,6 @@
+notification_id,customer_id,compartment_id,pickup_code,notification_type,instructions
+1,1,2,pickup_abc,email,Retrieve your parcel using the pickup code at the specified compartment.
+2,2,4,pickup_def,sms,Retrieve your parcel using the pickup code at the specified compartment.
+3,3,6,pickup_ghi,email,Retrieve your parcel using the pickup code at the specified compartment.
+4,4,8,pickup_jkl,sms,Retrieve your parcel using the pickup code at the specified compartment.
+5,5,10,pickup_mno,email,Retrieve your parcel using the pickup code at the specified compartment.
